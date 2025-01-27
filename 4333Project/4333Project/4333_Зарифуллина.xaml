@@ -1,12 +1,13 @@
-﻿<Window x:Class="_4333Project.MainWindow"
+﻿<Window x:Class="_4333Project._4333_Зарифуллина"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_4333Project"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="_4333_Зарифуллина" Height="450" Width="800">
     <Grid>
-        <Button Height="40" Width="150" FontSize="18" Background="BlueViolet" Click="Button_Click">Кнопка</Button>
+        <TextBlock FontSize="40" Margin="200, 110,0,0">Имя: Марселина</TextBlock>
+        <TextBlock FontSize="40" Margin="200,160,0,0">Возраст: 18 лет</TextBlock>
     </Grid>
 </Window>

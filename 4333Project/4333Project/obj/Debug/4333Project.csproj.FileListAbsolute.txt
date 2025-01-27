@@ -1,0 +1,17 @@
+C:\4333Group\4333Project\4333Project\bin\Debug\4333Project.exe.config
+C:\4333Group\4333Project\4333Project\bin\Debug\4333Project.exe
+C:\4333Group\4333Project\4333Project\bin\Debug\4333Project.pdb
+C:\4333Group\4333Project\4333Project\obj\Debug\4333Project.csproj.AssemblyReference.cache
+C:\4333Group\4333Project\4333Project\obj\Debug\4333_Зарифуллина.g.cs
+C:\4333Group\4333Project\4333Project\obj\Debug\MainWindow.g.cs
+C:\4333Group\4333Project\4333Project\obj\Debug\App.g.cs
+C:\4333Group\4333Project\4333Project\obj\Debug\4333Project_MarkupCompile.cache
+C:\4333Group\4333Project\4333Project\obj\Debug\4333Project_MarkupCompile.lref
+C:\4333Group\4333Project\4333Project\obj\Debug\MainWindow.baml
+C:\4333Group\4333Project\4333Project\obj\Debug\4333_Зарифуллина.baml
+C:\4333Group\4333Project\4333Project\obj\Debug\4333Project.g.resources
+C:\4333Group\4333Project\4333Project\obj\Debug\_4333Project.Properties.Resources.resources
+C:\4333Group\4333Project\4333Project\obj\Debug\4333Project.csproj.GenerateResource.cache
+C:\4333Group\4333Project\4333Project\obj\Debug\4333Project.csproj.CoreCompileInputs.cache
+C:\4333Group\4333Project\4333Project\obj\Debug\4333Project.exe
+C:\4333Group\4333Project\4333Project\obj\Debug\4333Project.pdb
