@@ -59,12 +59,19 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="4333_Хакимуллина.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
     <Compile Include="4333_Зарифуллина.xaml.cs">
       <DependentUpon>4333_Зарифуллина.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="4333_Хакимуллина.xaml.cs">
+      <DependentUpon>4333_Хакимуллина.xaml</DependentUpon>
     </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>

@@ -31,5 +31,11 @@ namespace _4333Project
             _4333_Зарифуллина.Show();
             this.Close();
         }
+
+        private void ButtonDana_Click(object sender, RoutedEventArgs e)
+        {
+            _4333_Хакимуллина _4333_Хакимуллина = new _4333_Хакимуллина();
+            _4333_Хакимуллина.Show();
+        }
     }
 }
