@@ -1,0 +1,17 @@
+C:\Users\abaew\Storage\4333Group\4333Project\4333Project\bin\Debug\4333Project.exe.config
+C:\Users\abaew\Storage\4333Group\4333Project\4333Project\bin\Debug\4333Project.exe
+C:\Users\abaew\Storage\4333Group\4333Project\4333Project\bin\Debug\4333Project.pdb
+C:\Users\abaew\Storage\4333Group\4333Project\4333Project\obj\Debug\4333Project.csproj.AssemblyReference.cache
+C:\Users\abaew\Storage\4333Group\4333Project\4333Project\obj\Debug\gr4333_Abaev.g.cs
+C:\Users\abaew\Storage\4333Group\4333Project\4333Project\obj\Debug\MainWindow.g.cs
+C:\Users\abaew\Storage\4333Group\4333Project\4333Project\obj\Debug\App.g.cs
+C:\Users\abaew\Storage\4333Group\4333Project\4333Project\obj\Debug\4333Project_MarkupCompile.cache
+C:\Users\abaew\Storage\4333Group\4333Project\4333Project\obj\Debug\4333Project_MarkupCompile.lref
+C:\Users\abaew\Storage\4333Group\4333Project\4333Project\obj\Debug\MainWindow.baml
+C:\Users\abaew\Storage\4333Group\4333Project\4333Project\obj\Debug\gr4333_Abaev.baml
+C:\Users\abaew\Storage\4333Group\4333Project\4333Project\obj\Debug\4333Project.g.resources
+C:\Users\abaew\Storage\4333Group\4333Project\4333Project\obj\Debug\_4333Project.Properties.Resources.resources
+C:\Users\abaew\Storage\4333Group\4333Project\4333Project\obj\Debug\4333Project.csproj.GenerateResource.cache
+C:\Users\abaew\Storage\4333Group\4333Project\4333Project\obj\Debug\4333Project.csproj.CoreCompileInputs.cache
+C:\Users\abaew\Storage\4333Group\4333Project\4333Project\obj\Debug\4333Project.exe
+C:\Users\abaew\Storage\4333Group\4333Project\4333Project\obj\Debug\4333Project.pdb
