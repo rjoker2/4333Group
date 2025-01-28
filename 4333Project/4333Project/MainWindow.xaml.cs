@@ -25,11 +25,19 @@ namespace _4333Project
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        // Обработчик для первой кнопки
+        private void Button1_Click(object sender, RoutedEventArgs e)
         {
             _4333_Зарифуллина _4333_Зарифуллина = new _4333_Зарифуллина();
             _4333_Зарифуллина.Show();
             this.Close();
+        }
+
+        // Обработчик для второй кнопки
+        private void Button2_Click(object sender, RoutedEventArgs e)
+        {
+            _4333_Abaev _4333_Abaev = new _4333_Abaev();
+            _4333_Abaev.Show();
         }
     }
 }
