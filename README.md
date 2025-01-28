@@ -1,3 +1,1 @@
-# 4333Group
-# Zarifullina
-# Амир Абаев
+# 4333Group_Zarifullina
