@@ -15,3 +15,7 @@ C:\4333Group\4333Project\4333Project\obj\Debug\4333Project.csproj.GenerateResour
 C:\4333Group\4333Project\4333Project\obj\Debug\4333Project.csproj.CoreCompileInputs.cache
 C:\4333Group\4333Project\4333Project\obj\Debug\4333Project.exe
 C:\4333Group\4333Project\4333Project\obj\Debug\4333Project.pdb
+C:\4333Group\4333Project\4333Project\obj\Debug\4333_Хакимуллина.g.cs
+C:\4333Group\4333Project\4333Project\obj\Debug\4333_Хакимуллина.baml
+C:\4333Group\4333Project\4333Project\obj\Debug\4333_Loginov.g.cs
+C:\4333Group\4333Project\4333Project\obj\Debug\4333_Loginov.baml
