@@ -43,5 +43,11 @@ namespace _4333Project
             _4333_Loginov _4333_Loginov = new _4333_Loginov();
             _4333_Loginov.Show();
         }
+
+        private void EgorButton_Click(object sender, RoutedEventArgs e)
+        {
+            _4333_Loparev _4333_Loparev = new _4333_Loparev();
+            _4333_Loparev.Show();
+        }
     }
 }

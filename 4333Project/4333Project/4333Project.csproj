@@ -59,6 +59,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="4333_Loparev.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="4333_Зарифуллина.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -73,6 +77,9 @@
     </Page>
     <Compile Include="4333_Loginov.xaml.cs">
       <DependentUpon>4333_Loginov.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="4333_Loparev.xaml.cs">
+      <DependentUpon>4333_Loparev.xaml</DependentUpon>
     </Compile>
     <Compile Include="4333_Зарифуллина.xaml.cs">
       <DependentUpon>4333_Зарифуллина.xaml</DependentUpon>
