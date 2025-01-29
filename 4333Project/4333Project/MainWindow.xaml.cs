@@ -29,13 +29,19 @@ namespace _4333Project
         {
             _4333_Зарифуллина _4333_Зарифуллина = new _4333_Зарифуллина();
             _4333_Зарифуллина.Show();
-            this.Close();
+            
         }
 
         private void ButtonDana_Click(object sender, RoutedEventArgs e)
         {
             _4333_Хакимуллина _4333_Хакимуллина = new _4333_Хакимуллина();
             _4333_Хакимуллина.Show();
+        }
+
+        private void DanilaBaton_Click(object sender, RoutedEventArgs e)
+        {
+            _4333_Loginov _4333_Loginov = new _4333_Loginov();
+            _4333_Loginov.Show();
         }
     }
 }

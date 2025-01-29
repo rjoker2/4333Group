@@ -7,7 +7,32 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Width="100" Background="BlueViolet" Click="Button_Click" Margin="144,143,556,0" VerticalAlignment="Top">8</Button>
-        <Button x:Name="ButtonDana" Content="22" HorizontalAlignment="Left" Margin="144,286,0,0" VerticalAlignment="Top" Click="ButtonDana_Click" Background="#FFF277FF" Width="100"/>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button Width="100" Grid.Row="7" Background="BlueViolet" Click="Button_Click"  >8</Button>
+        <Button Width="100" Content="12" x:Name="DanilaBaton" Grid.Row="11" Background="LightSalmon" Click="DanilaBaton_Click"/>
+        <Button x:Name="ButtonDana" Grid.Row="21"  Content="22"   VerticalAlignment="Top" Click="ButtonDana_Click" Background="#FFF277FF" Width="100"/>
     </Grid>
 </Window>
