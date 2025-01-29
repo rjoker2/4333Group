@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Height="40" Width="150" FontSize="18" Background="BlueViolet" Click="Button_Click">Кнопка</Button>
+        <Button Width="100" Background="BlueViolet" Click="Button_Click" Margin="144,143,556,0" VerticalAlignment="Top">8</Button>
+        <Button x:Name="ButtonDana" Content="22" HorizontalAlignment="Left" Margin="144,286,0,0" VerticalAlignment="Top" Click="ButtonDana_Click" Background="#FFF277FF" Width="100"/>
     </Grid>
 </Window>
