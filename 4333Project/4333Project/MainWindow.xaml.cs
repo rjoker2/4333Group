@@ -60,5 +60,11 @@ namespace _4333Project
             _4333_Zagumenov _4333_Zagumenov = new _4333_Zagumenov();
             _4333_Zagumenov.Show();
         }
+
+        private void _4333_Mustafina_Click(object sender, RoutedEventArgs e)
+        {
+            var w = new _4333_Mustafina();
+            w.Show();
+        }
     }
 }
