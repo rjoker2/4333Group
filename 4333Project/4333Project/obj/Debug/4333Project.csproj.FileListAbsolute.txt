@@ -19,3 +19,5 @@ C:\4333Group\4333Project\4333Project\obj\Debug\4333_Хакимуллина.g.cs
 C:\4333Group\4333Project\4333Project\obj\Debug\4333_Хакимуллина.baml
 C:\4333Group\4333Project\4333Project\obj\Debug\4333_Loginov.g.cs
 C:\4333Group\4333Project\4333Project\obj\Debug\4333_Loginov.baml
+C:\4333Group\4333Project\4333Project\obj\Debug\4333_Яфасова.g.cs
+C:\4333Group\4333Project\4333Project\obj\Debug\4333_Яфасова.baml

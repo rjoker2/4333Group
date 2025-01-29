@@ -43,5 +43,11 @@ namespace _4333Project
             _4333_Loginov _4333_Loginov = new _4333_Loginov();
             _4333_Loginov.Show();
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            _4333_Яфасова _4333_Яфасова = new _4333_Яфасова();
+            _4333_Яфасова.Show();
+        }
     }
 }

@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\4333Group\\4333Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|C:\\4333Group\\4333Project\\4333project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|c:\\4333group\\4333project\\4333project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -11,7 +11,11 @@
       "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|c:\\4333group\\4333project\\4333project\\4333_loginov.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|c:\\4333group\\4333project\\4333project\\4333_\u044F\u0444\u0430\u0441\u043E\u0432\u0430.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\4333_\u044F\u0444\u0430\u0441\u043E\u0432\u0430.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|C:\\4333Group\\4333Project\\4333project\\4333_loginov.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7C1E3715-3BCE-4907-9DCD-06782ECC55D9}|4333Project\\4333Project.csproj|solutionrelative:4333project\\4333_loginov.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -26,19 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4333_\u042F\u0444\u0430\u0441\u043E\u0432\u0430.xaml",
+              "DocumentMoniker": "C:\\4333Group\\4333Project\\4333Project\\4333_\u042F\u0444\u0430\u0441\u043E\u0432\u0430.xaml",
+              "RelativeDocumentMoniker": "4333Project\\4333_\u042F\u0444\u0430\u0441\u043E\u0432\u0430.xaml",
+              "ToolTip": "C:\\4333Group\\4333Project\\4333Project\\4333_\u042F\u0444\u0430\u0441\u043E\u0432\u0430.xaml",
+              "RelativeToolTip": "4333Project\\4333_\u042F\u0444\u0430\u0441\u043E\u0432\u0430.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-29T07:27:25.571Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -48,22 +52,21 @@
               "RelativeDocumentMoniker": "4333Project\\MainWindow.xaml.cs",
               "ToolTip": "C:\\4333Group\\4333Project\\4333Project\\MainWindow.xaml.cs",
               "RelativeToolTip": "4333Project\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwB8AAAAMAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T16:31:51.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "4333_Loginov.xaml",
               "DocumentMoniker": "C:\\4333Group\\4333Project\\4333Project\\4333_Loginov.xaml",
               "RelativeDocumentMoniker": "4333Project\\4333_Loginov.xaml",
               "ToolTip": "C:\\4333Group\\4333Project\\4333Project\\4333_Loginov.xaml",
               "RelativeToolTip": "4333Project\\4333_Loginov.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-29T05:49:46.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T05:49:46.971Z"
             },
             {
               "$type": "Document",
@@ -79,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "4333_\u0417\u0430\u0440\u0438\u0444\u0443\u043B\u043B\u0438\u043D\u0430.xaml",
               "DocumentMoniker": "C:\\4333Group\\4333Project\\4333Project\\4333_\u0417\u0430\u0440\u0438\u0444\u0443\u043B\u043B\u0438\u043D\u0430.xaml",
               "RelativeDocumentMoniker": "4333Project\\4333_\u0417\u0430\u0440\u0438\u0444\u0443\u043B\u043B\u0438\u043D\u0430.xaml",
