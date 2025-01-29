@@ -49,5 +49,16 @@ namespace _4333Project
             _4333_Loparev _4333_Loparev = new _4333_Loparev();
             _4333_Loparev.Show();
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            
+        }
+
+        private void ArturButton_Click(object sender, RoutedEventArgs e)
+        {
+            _4333_Zagumenov _4333_Zagumenov = new _4333_Zagumenov();
+            _4333_Zagumenov.Show();
+        }
     }
 }
