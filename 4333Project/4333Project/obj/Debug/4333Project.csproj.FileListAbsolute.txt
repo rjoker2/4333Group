@@ -23,3 +23,5 @@ C:\4333Group\4333Project\4333Project\obj\Debug\4333_Loparev.g.cs
 C:\4333Group\4333Project\4333Project\obj\Debug\4333_Loparev.baml
 C:\4333Group\4333Project\4333Project\obj\Debug\4333_Zagumenov.g.cs
 C:\4333Group\4333Project\4333Project\obj\Debug\4333_Zagumenov.baml
+C:\4333Group\4333Project\4333Project\obj\Debug\4333_Яфасова.g.cs
+C:\4333Group\4333Project\4333Project\obj\Debug\4333_Яфасова.baml

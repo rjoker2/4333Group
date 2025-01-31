@@ -111,37 +111,55 @@ namespace _4333Project {
             #line default
             #line hidden
             return;
+            
             case 2:
+            this.Button = ((System.Windows.Controls.Button)(target));
             
             #line 35 "..\..\MainWindow.xaml"
-            ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.Button_Click_1);
+            ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.Button_Click);
             
             #line default
             #line hidden
             return;
             case 3:
-            this.DanilaBaton = ((System.Windows.Controls.Button)(target));
             
             #line 36 "..\..\MainWindow.xaml"
-            this.DanilaBaton.Click += new System.Windows.RoutedEventHandler(this.DanilaBaton_Click);
+            ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.Button_Click_1);
             
             #line default
             #line hidden
             return;
             case 4:
-            this.EgorButton = ((System.Windows.Controls.Button)(target));
+            this.DanilaBaton = ((System.Windows.Controls.Button)(target));
             
             #line 37 "..\..\MainWindow.xaml"
-            this.EgorButton.Click += new System.Windows.RoutedEventHandler(this.EgorButton_Click);
+            this.DanilaBaton.Click += new System.Windows.RoutedEventHandler(this.DanilaBaton_Click);
             
             #line default
             #line hidden
             return;
             case 5:
-            this.ButtonDana = ((System.Windows.Controls.Button)(target));
+            this.EgorButton = ((System.Windows.Controls.Button)(target));
             
             #line 38 "..\..\MainWindow.xaml"
+            this.EgorButton.Click += new System.Windows.RoutedEventHandler(this.EgorButton_Click);
+            
+            #line default
+            #line hidden
+            return;
+            case 6:
+            this.ButtonDana = ((System.Windows.Controls.Button)(target));
+            
+            #line 39 "..\..\MainWindow.xaml"
             this.ButtonDana.Click += new System.Windows.RoutedEventHandler(this.ButtonDana_Click);
+            
+            #line default
+            #line hidden
+            return;
+            case 7:
+            
+            #line 40 "..\..\MainWindow.xaml"
+            ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.Button_Click_1);
             
             #line default
             #line hidden
