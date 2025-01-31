@@ -66,5 +66,11 @@ namespace _4333Project
             _4333_Яфасова _4333_Яфасова = new _4333_Яфасова();
             _4333_Яфасова.Show();
         }
+        
+        private void _4333_Mustafina_Click(object sender, RoutedEventArgs e)
+        {
+            var w = new _4333_Mustafina();
+            w.Show();
+        }
     }
 }
