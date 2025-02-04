@@ -50,10 +50,6 @@ namespace _4333Project
             _4333_Loparev.Show();
         }
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-            
-        }
 
         private void ArturButton_Click(object sender, RoutedEventArgs e)
         {
@@ -71,6 +67,12 @@ namespace _4333Project
         {
             var w = new _4333_Mustafina();
             w.Show();
+        }
+
+        private void Pavlova4333_Click(object sender, RoutedEventArgs e)
+        {
+            _4333_Pavlova _4333_Pavlova = new _4333_Pavlova();
+            _4333_Pavlova.Show();
         }
     }
 }
